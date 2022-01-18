@@ -120,6 +120,7 @@ line-height: 2;
   color:#EAF6F6;
   width: 40%;
   margin: auto;
+  display: block;
 }
 .footer-link{
   color: #11999E;
