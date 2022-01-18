@@ -118,6 +118,8 @@ line-height: 2;
 }
 .bottom-container p{
   color:#EAF6F6;
+  width: 40%;
+  margin: auto;
 }
 .footer-link{
   color: #11999E;
